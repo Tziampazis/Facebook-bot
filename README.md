@@ -1,7 +1,8 @@
 # Facebook-bot
 This is a simple Facebook bot that can send messages based on a given name.
 This implementation is based on Google Chrome. It can be altered into Firefox, etc.
-#########################################
+
+
 INSTALLATION
 ------------
 
