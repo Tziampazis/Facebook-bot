@@ -23,7 +23,9 @@ the flow of the code.
 
 Namely:
 
-1)The timer.wait() can be adjusted based on your internet speed
+1)The timer.wait() can be adjusted based on your internet speed 
+
 2)The chat is selected through the web-app bar. When a message is send it must not be interrupted by 
   other incoming messages, otherwise the code will continue spamming on the newly open window.
+  
 3)The chat given must be visible when the chat pop up is clicked.
